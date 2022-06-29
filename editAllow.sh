@@ -9,7 +9,7 @@ cd /etc
 read -p "Enter the IP you want to whitelist: " ip_address
 
 #ip_address >> openAllow.sh
-#printf $ip_address >> openAllow.sh # $USER >> openAllow.sh #find a way to make it print the user that  entered this in
+#printf $ip_address >> openAllow.sh # $USER >> openAllow.sh
 
 }
 
